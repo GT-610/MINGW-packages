@@ -43,7 +43,7 @@ build() {
     --enable-static \
     --enable-shared \
     --enable-introspection \
-    --with-included-loaders
+    --with-included-loaders=ani,icns,pcx,ras,tga,png,pnm,wbmp,xpm,qtif
   make
 }
 
