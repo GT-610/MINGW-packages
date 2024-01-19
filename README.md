@@ -1,3 +1,8 @@
+# Inactive repository notice
+Upstream hasn't been updated for nine years. This backup repo will be archived until the upstream gets update again.
+
+# Original README
+
 MINGW-packages
 ==============
 
